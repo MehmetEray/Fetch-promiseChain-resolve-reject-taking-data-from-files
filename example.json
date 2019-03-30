@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Eray",
+        "age" : 22,
+        "school" : "IAU"
+    },
+    {
+        "name" : "Mehmet",
+        "age" : 23,
+        "school" : "ITU"
+    },
+    {
+        "name" : "Yağmur",
+        "age" : 24,
+        "school" : "ODTU"
+    }
+]
